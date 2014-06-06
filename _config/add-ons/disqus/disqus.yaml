@@ -1,0 +1,3 @@
+disqus_forum: forum_name
+disqus_key: app_public_key
+disqus_cache: 30 # in minutes
